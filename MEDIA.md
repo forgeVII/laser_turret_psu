@@ -28,7 +28,7 @@ Store in `media/videos/` (or link to a hosted video), then add here.
 
 | Platform | URL | Notes |
 |---|---|---|
-| PSU repo | https://github.com/forgeVII/laser_turret_psu | this project |
+| PSU repo | https://github.com/forgeVII/Portable-Bench-PSU | canonical shared-box repo (this repo is archived) |
 | Turret repo | https://github.com/forgeVII/laser_turret | simulator + firmware |
 | Demo video | https://youtube.com/shorts/UFWoeOp6Qgk | turret + PSU in the build short |
 | Photo album | — | reserved |
