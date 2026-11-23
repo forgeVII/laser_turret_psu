@@ -3,6 +3,8 @@
 Dedicated repo for the turret's custom 5 V power supply: as-built wiring, header
 map, power budget, safety rules, physical build notes and reserved media slots.
 
+**Demo short:** https://youtube.com/shorts/UFWoeOp6Qgk
+
 The simulator, firmware and control/calibration notes live in the separate
 [forgeVII/laser_turret](https://github.com/forgeVII/laser_turret) repo.
 
